@@ -1,2 +1,20 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /* Your CSS Code here. */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
